@@ -1,4 +1,4 @@
-# My Homepage
+# About me!
 
 I have coded small games in Unity and tried Android Studio, now I focus on learning and getting a job 😄
 
