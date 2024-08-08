@@ -1,5 +1,4 @@
 # About me!
 
-- 🔭 I’m currently working on becoming a good developer
-- 🧡 I like to come up with project ideas
+🔭 I’m currently working as a freelancer as a fullstack dev in Angular + PHP (CodeIgniter)
 
